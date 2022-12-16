@@ -1,4 +1,4 @@
-const baseURL = "https://lan-party.azurewebsites.net"
+const baseURL = "https://lanparty.azurewebsites.net"
 
 async function handleHttpErrors(res) {
     if (!res.ok) {
